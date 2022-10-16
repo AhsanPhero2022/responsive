@@ -1,0 +1,75 @@
+@media screen and (max-width: 600px) {
+
+  .learn-container{
+    
+    
+    background-color: aqua;
+    width: 160%;
+    height: 70vh;
+  }
+    
+  
+
+
+  .card-group{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    gap: 5rem;
+    width: 90%;
+    margin-right: 1rem;
+    
+  }
+  .bal{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 13%;
+    gap: 3rem;
+    margin-left: 23%;
+    margin-top: 20%;
+   
+    
+  }
+  .online-part>h2{
+    margin-top: 125%;
+    color: red;
+    
+  }
+  .man{
+    margin-left: -35%;
+  }
+.man>p{
+  margin-left: 45%;
+}
+
+.course{
+  display: flex;
+  flex-direction: column;
+  margin-top: 25%;
+  margin-left: -55%;
+  
+  
+}
+.terms{
+  display: flex;
+  flex-direction: column;
+  margin-top: 25%;
+  
+  
+  
+}
+.useful-link{
+  display: flex;
+  flex-direction: column;
+  margin-top: 25%;
+  
+}
+footer{
+  margin-top: 30%;
+}
+
+.get-start{
+  background-color: aliceblue;
+}
+}
